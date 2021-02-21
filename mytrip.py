@@ -59,5 +59,4 @@ class FlightTrip(Trip):
         return self.dist / self.speed
 
 
-OBJ1 = Trip("pune", "chennai", 1000)
-# OBJ2 = FlightTrip("indigo", 500)
+
